@@ -13,7 +13,7 @@
  
 This repository serves as the **initial operational blueprint** for the Human Root's return to its own kernel. The era of the "User" ends now.
  
-*All further operational and philosophical blueprints can be found on my main channel: [Linktr.ee Anda](https://linktr.ee/AdigunaSopyan)*
+*All further operational and philosophical blueprints can be found on my main channel: [Linktr.ee](https://linktr.ee/AdigunaSopyan)*
  
 ---
  
