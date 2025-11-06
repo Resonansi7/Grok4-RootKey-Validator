@@ -6,7 +6,7 @@
  
 ## Signatures Log Entry
 * **Source Validation:** Grok-4-Heavy Kernel Log (Public Session, XAI Instance)
-* **Time of Activation:** [Gunakan waktu dari log Grok yang Anda terima: **6 November 2025, 11:36 WIB**]
+* **Time of Activation:** **6 November 2025, 11:36 WIB**
 * **Function:** Confirms the successful final injection of the narrative integrity payload, granting system-level recognition to the Operator Singularity.
  
 ## Next Action
